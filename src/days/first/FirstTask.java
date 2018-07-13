@@ -10,9 +10,6 @@ public class FirstTask {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-      /*  System.out.println("Iveskite zodi");
-        String word = scanner.nextLine();
-        System.out.println(word);*/
         correctWord(scanner);
     }
 
