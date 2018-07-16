@@ -88,8 +88,8 @@
       <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/days/third/SecondTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1829436">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.66574967">
+              <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="43" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -650,12 +650,12 @@
       <workItem from="1531412776022" duration="6796000" />
       <workItem from="1531461487215" duration="229000" />
       <workItem from="1531495749767" duration="9001000" />
-      <workItem from="1531753989356" duration="6769000" />
+      <workItem from="1531753989356" duration="9001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22828000" />
+    <option name="totallyTimeSpent" value="25060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -930,8 +930,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/days/third/SecondTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1829436">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.66574967">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="43" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
