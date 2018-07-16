@@ -1,6 +1,8 @@
 package days.second;
 
 
+import utils.NumberUtils;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -36,25 +38,11 @@ public class SecondTask {
     }
 
     private double trikampioPlotas(Scanner scanner){
-        double a = getCorrectNumber(scanner,"Iveskite a statini");
-        double b = getCorrectNumber(scanner,"Iveskite b statini");
+        double a = NumberUtils.getCorrectNumber(scanner, "Iveskite a statini");
+        double b = NumberUtils.getCorrectNumber(scanner,"Iveskite b statini");
         return (a*b)/2;
     }
 
-    private double getCorrectNumber(Scanner sc, String message){
-        double result;
-        while (true) {
-            System.out.println(message);
-            try {
-                result = sc.nextDouble();
-                break;
-            }catch (InputMismatchException e){
-                System.out.println("Nepavyko pakartoki");
-                sc.nextLine();
-            }
-        }
-        return result;
-    }
 
 
 
